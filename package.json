@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "Protractor starts running"
+    "test": "./node_modules/.bin/protractor conf.js"
   },
   "repository": {
     "type": "git",
