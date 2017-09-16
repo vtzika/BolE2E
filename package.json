@@ -1,0 +1,22 @@
+{
+  "name": "bol-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Protractor starts running"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtzika/BolE2E.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtzika/BolE2E/issues"
+  },
+  "homepage": "https://github.com/vtzika/BolE2E#readme",
+  "dependencies": {
+    "protractor": "^5.1.2"
+  }
+}
