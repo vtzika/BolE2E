@@ -1,6 +1,7 @@
 // conf.js
 exports.config = {
   framework: 'jasmine',
-  seleniumAddress: 'http://localhost:4444/wd/hub',
+  sauceUser: 'vtzika',
+  sauceKey: 'df88393b-e51f-495b-8f77-05e86394dc98',
   specs: ['spec.js']
 }
