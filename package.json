@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vtzika/BolE2E#readme",
   "dependencies": {
+    "angular": "^1.6.6",
     "protractor": "^5.1.2"
   }
 }
